@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Nata</h1>
-<h3 align="center">A Software Engineering student at Northeastern University</h3>
+<h3 align="center">A Software Engineering grad student at Northeastern University</h3>
 
 With a strong focus on Java, and a growing passion for Web app development and Javascript programming. I'm fascinated by the power of software to transform ideas into reality and am always on the lookout for projects that challenge me to learn more and do better.
 
