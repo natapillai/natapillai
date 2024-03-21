@@ -53,7 +53,7 @@ With a strong focus on Java, and a growing passion for Web app development and J
 
 [//]: # (- 💬 Ask me about **Java**)
 
-- 📫 How to reach me: **Feel free to reach out via natapillai@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/natapillai/)**
+- 📫 How to reach me: **Feel free to reach out via natapillai.app@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/natapillai/)**
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1LVaCOo5ubDX7P-PlxEcqy3f-MDOMAHti/view?usp=drive_link)
 
