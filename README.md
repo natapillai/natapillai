@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://www.linkedin.com/in/natapillai/)
 <h1 align="center">Hi 👋, I'm Nata</h1>
-<h3 align="center">A Software Engineering grad student at Northeastern University</h3>
+<h3 align="center">A Software Engineer with a passion for Backend infrastructures</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=natapillai&label=Profile%20views&color=0e75b6&style=flat" alt="natapillai" /> </p> -->
 
@@ -55,7 +55,7 @@ With a strong focus on Java, and a growing passion for Web app development and J
 
 - 📫 How to reach me: **Feel free to reach out via natapillai.app@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/natapillai/)**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1ohu8OgGFfBRtGWDVom3wMKwrzmqt_nl_/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1Nlj7Bgt6UAJ_Tm5zfEt_mpfs8KEDdsuh/view?usp=sharing)
 
 - ⚡ Fun fact: **I once made a podcast with a friend where we talked about animes**
 
